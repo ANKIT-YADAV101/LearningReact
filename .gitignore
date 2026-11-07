@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -22,3 +23,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+=======
+.zig-cache/
+zig-out/
+zig-pkg/
+*.o
+>>>>>>> cac3431757cd0b71341bd9b6fe3a73954ea69bb3
